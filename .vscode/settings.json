@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ezmem.h": "c",
+        "stdlib.h": "c"
+    }
+}
